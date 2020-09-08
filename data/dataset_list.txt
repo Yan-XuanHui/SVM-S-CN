@@ -1,0 +1,9 @@
+BreastCancer
+Promoters
+Dermatology
+Soybean
+Vote
+Car
+GermanCredit
+Chess (King-Rook vs. King-Pawn)
+Tic-Tac-Toe Endgame
